@@ -20,7 +20,7 @@ Welcome to my professional portfolio showcasing my skills, projects, and journey
 | Backend        | PHP, Python, Java                     |
 | Tools          | Git, GitHub                           |
 
-📁 Project Structure
+## 📁 Project Structure
 portfolio/
 ├── index.html    # Main portfolio file (HTML + CSS)
 ├── README.md               # Project documentation
