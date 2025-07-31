@@ -37,10 +37,11 @@ This is a **professional portfolio website** built with HTML and CSS that demons
 ## 📁 Project Structure
 
 ```
-warima-portfolio/
-├── warima-portfolio.html    # Main portfolio file (HTML + CSS)
+portfolio/
+├── index.html    # Main portfolio file (HTML + CSS)
 ├── README.md               # Project documentation
-└── .gitignore             # Git ignore file
+└── Warima_CV.pdf   # Downloadable CV
+└── warima_photo.pdf # photo diplayed in portfolio
 ```
 
 ---
