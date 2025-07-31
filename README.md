@@ -1,6 +1,4 @@
-# Warima's Developer Portfolio 👨‍💻
 
-![Portfolio Screenshot](warima_photo.jpg) *Replace with actual screenshot if available*
 
 Welcome to my professional portfolio showcasing my skills, projects, and journey as a self-taught developer passionate about creating innovative digital solutions.
 
