@@ -87,7 +87,7 @@ portfolio/
 ### GitHub Pages
 This portfolio is deployed on **GitHub Pages** for easy access and professional presentation.
 
-**Live Demo**: [View Portfolio](https://your-username.github.io/July2025Cohort-Hackathon1/)
+**Live Demo**:https://github.com/eddywarima
 
 ### Alternative Deployment Options
 - **Netlify**: For continuous deployment and custom domains
@@ -191,7 +191,6 @@ This portfolio is deployed on **GitHub Pages** for easy access and professional 
 ## 🎯 Future Enhancements
 
 ### Planned Features
-- **Dark Mode Toggle**: User preference for theme switching
 - **Project Showcase**: Dynamic project gallery
 - **Blog Integration**: Technical writing section
 - **Performance Analytics**: Loading speed optimization
@@ -206,10 +205,8 @@ This portfolio is deployed on **GitHub Pages** for easy access and professional 
 
 ## 📞 Contact Information
 
-- **GitHub**: [Your GitHub Profile]
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Live Portfolio Link]
+- **GitHub**: https://github.com/eddywarima
+- **Email**: warimaedgar@gmail.com
 
 ---
 
