@@ -165,17 +165,6 @@ body {
     position: relative;
 }
 
-.greeting::after {
-    content: '';
-    position: absolute;
-    top: 1.2rem;
-    right: -2rem;
-    width: 8px;
-    height: 8px;
-    background: var(--accent-orange);
-    border-radius: 50%;
-}
-
 .greeting-line {
     width: 60px;
     height: 2px;
