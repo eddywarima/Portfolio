@@ -20,13 +20,6 @@ Welcome to my professional portfolio showcasing my skills, projects, and journey
 | Backend        | PHP, Python, Java                     |
 | Tools          | Git, GitHub                           |
 
-## 📁 Project Structure
-portfolio/
-├── index.html    # Main portfolio file (HTML + CSS)
-├── README.md               # Project documentation
-└── Warima_CV.pdf   # Downloadable CV
-└── warima_photo.pdf # photo diplayed in portfolio
-
 ### Design Features
 - CSS Grid & Flexbox layouts
 - Custom CSS animations
