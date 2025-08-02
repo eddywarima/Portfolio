@@ -1,91 +1,115 @@
+# Warima Edgar - Software Developer Portfolio
+
+## 📌 Project Overview
+
+This is my professional portfolio website showcasing my skills, projects, education, and contact information as a software developer. The portfolio features a clean, modern design with dark/light theme toggle functionality, responsive layout, and interactive elements.
+
+🔗 **Live Demo:** [https://eddywarima.github.io/Portfolio/]
+
+## 🎨 Features
+
+- **Dark/Light Theme Toggle** - Switch between color schemes with persistent preference
+- **Responsive Design** - Works on all device sizes from mobile to desktop
+- **Interactive Elements** - Hover effects, animations, and smooth scrolling
+- **Comprehensive Sections**:
+  - Hero section with tech stack
+  - Services/About me
+  - Education timeline
+  - Coding journey
+  - Project showcase
+  - Contact form
+- **Performance Optimized** - Fast loading with minimal dependencies
+
+## 🛠️ Technologies Used
+
+### Frontend
+- HTML5
+- CSS3 (with CSS Variables for theming)
+- SVG Icons
+- Responsive Design (Mobile-first approach)
+
+### Tools
+- Git & GitHub for version control
+- GitHub Pages for deployment
+
+## 🚀 Installation & Setup
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/eddywarima/Portfolio.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd Portfolio
+   ```
+
+3. Open `index.html` in your preferred browser:
+   ```bash
+   open index.html  # On macOS
+   start index.html # On Windows
+   ```
+
+## 📂 File Structure
+
+Portfolio/
+├── index.html          # Main HTML file
+├── styles.css          # All styling
+├── Warima_CV.pdf       # Resume (example)
+└── warima_photo.jpg    # Profile photo
 
 
-Welcome to my professional portfolio showcasing my skills, projects, and journey as a self-taught developer passionate about creating innovative digital solutions.
+## 🎯 Key Components
 
-## 🌐 Live Demo
-[View Portfolio](https://eddywarima.github.io) *Update with your actual GitHub Pages URL*
+### 1. Theme System
+- Uses CSS variables for easy theme switching
+- Toggle persists user preference
+- Applies to all sections consistently
 
-## ✨ Key Features
-- **Modern Dark/Light Theme** - Toggle between color schemes
-- **Responsive Design** - Fully functional on all devices
-- **Interactive Elements** - Smooth animations and hover effects
-- **Project Showcase** - Highlighted work samples with tech stack
-- **Professional Contact Form** - Easy way to get in touch
+### 2. Sections Breakdown
+- **Intro Section**: Introduction with profile picture and tech stack
+- **Services**: Web, app, and backend development services
+- **About Me**: Background and statistics
+- **Education**: Academic journey timeline
+- **Coding Journey**: Past, present, and future goals
+- **Projects**: Highlighted work with GitHub links
+- **Contact**: Form and social media links
 
-## 🛠️ Tech Stack
-### Core Technologies
-| Category       | Technologies                          |
-|----------------|---------------------------------------|
-| Frontend       | HTML5, CSS3, JavaScript               |
-| Backend        | PHP, Python, Java                     |
-| Tools          | Git, GitHub                           |
-
-### Design Features
-- CSS Grid & Flexbox layouts
-- Custom CSS animations
-- Responsive typography
-- Accessibility-focused design
-- Optimized performance
-
-## 📂 Project Structure
-
-## 📝 Portfolio Sections
-1. **Hero Section**  
-   - Professional introduction
-   - Theme toggle
-   - Call-to-action buttons
-
-2. **Services**  
-   - Web development
-   - App development
-   - Backend solutions
-
-3. **Education**  
-   - Academic background
-   - Current studies
-   - Certifications
-
-4. **Learning Journey**  
-   - Self-taught path
-   - Current focus areas
-   - Future goals
-
-5. **Projects**  
-   - IES Electrical System
-   - Portfolio Website
-   - Upcoming projects
-
-6. **Contact**  
-   - Email
-   - GitHub
-   - Social media links
-   - Contact form
-
-## 🚀 Deployment
-Hosted on GitHub Pages with options for:
-- Netlify
-- Vercel
-
-
-## 🔍 Code Quality
-- Semantic HTML5
-- CSS variables for theming
+### 3. Responsive Design
 - Mobile-first approach
-- Well-commented code
-- Accessibility best practices
+- Adapts layout for different screen sizes
+- Accessible navigation
 
-## 📈 Future Improvements
-- [ ] Add JavaScript interactivity
+## ✨ Design Highlights
 
-## 📬 Contact
-- **Email**: [warimaedgar@gmail.com](mailto:warimaedgar@gmail.com)
-- **GitHub**: [github.com/eddywarima](https://github.com/eddywarima)
-- **WhatsApp**: [+254731686613](https://wa.me/254731686613)
+- **Minimalist Aesthetic**: Clean layout with ample white space
+- **Color Scheme**: Orange accent color for CTAs and highlights
+- **Typography**: Clear hierarchy with responsive font sizes
+- **Animations**: Subtle hover effects and transitions
+- **Visual Elements**: Custom SVG icons throughout
+
+
+## 🌐 Browser Support
+
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+- Mobile Safari
+- Chrome for Android
 
 ## 📜 License
-MIT License - See [LICENSE](LICENSE) file for details
+
+This project is open-source and available under the MIT License.
+
+## 🤝 Contributing
+
+While this is a personal portfolio, suggestions and improvements are welcome! Please open an issue or pull request for any significant changes.
 
 ---
 
-**Crafted with passion by Warima**  
-*Last updated: August 2025*
+**Designed by Warima Edgar**  
+🔗 GitHub: [https://github.com/eddywarima]
+📧 Email: [warimaedgar@gmail.com]
