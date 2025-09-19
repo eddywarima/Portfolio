@@ -1025,18 +1025,4 @@ body {
     background: var(--light-bg);
 }
 
-.show {
-  opacity: 1;
-  transform: translateY(0);
-  transition: all 0.8s ease;
-}
-.service-item,
-.about-text,
-.project-card,
-.education-item,
-.interest-card,
-.contact-item,
-.contact-form {
-  opacity: 0;
-  transform: translateY(50px);
-}
+
